@@ -24,7 +24,7 @@ export default props => {
                     component={UserList}
                     options={( { navigation } ) => {
                         return {
-                            title: "Lista de Usuários",
+                            title: "Lista de Usuário",
                             headerRight: () => (
                                 <Button 
                                 type="clear"
